@@ -2,10 +2,20 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>{title}</title>
+  <title>Главная страница</title>
 </head>
 <body>
-<h1>{title}</h1>
-<p>Страница: {filename}</p>
+  <h1>Список статей</h1>
+  <ul>
+    <li><a href="obzor-onlajn-kazino-belorusskiy-sovmin-sozdast-kompyuternuyu-sistemu-k.html">
+      obzor-onlajn-kazino-belorusskiy-sovmin-sozdast-kompyuternuyu-sistemu-k
+    </a></li>
+    <li><a href="obzor-onlajn-kazino-igrat-v-sloty-na-realnye-dengi.html">
+      obzor-onlajn-kazino-igrat-v-sloty-na-realnye-dengi
+    </a></li>
+    <li><a href="obzor-onlajn-kazino-top-10-luchshih-igrovyh-avtomatov.html">
+      obzor-onlajn-kazino-top-10-luchshih-igrovyh-avtomatov
+    </a></li>
+  </ul>
 </body>
 </html>
